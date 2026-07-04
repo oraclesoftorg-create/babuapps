@@ -22,7 +22,7 @@ const Downloadpage = () => {
     {
       image: apps_img1,
       tag: "জিত",
-      title: "বাজিম্যানে আজই জিতে নিন ১০০% বোনাস!",
+      title: "BDBABU আজই জিতে নিন ১০০% বোনাস!",
       tagColor: "bg-yellow-400 text-black",
     },
     {
@@ -77,7 +77,7 @@ const Downloadpage = () => {
   return (
     <section className='flex justify-center items-center bg-white'>
       <section className="h-auto w-full md:w-[95%] lg:w-[40%] xl:w-[35%] 2xl:w-[30%] m-auto">
-        {/* অ্যাপ হেডার - বাজিম্যান বেটিং */}
+        {/* অ্যাপ হেডার - BDBABU বেটিং */}
         <div className="w-full bg-white py-[40px] mt-5 border-b border-gray-100">
           <div className="flex items-center space-x-6">
             <img
@@ -169,7 +169,7 @@ const Downloadpage = () => {
                     <MdStar /><MdStar /><MdStar /><MdStar /><MdStar />
                   </div>
                 </div>
-                <p className="text-sm text-gray-600 mt-1">"বাজিম্যান আসলেই অসাধারণ। প্রথম ডিপোজিটে ১০০% বোনাস পেলাম। উইথড্র খুব ফাস্ট।"</p>
+                <p className="text-sm text-gray-600 mt-1">"BDBABU আসলেই অসাধারণ। প্রথম ডিপোজিটে ১০০% বোনাস পেলাম। উইথড্র খুব ফাস্ট।"</p>
               </div>
               <div className="border-b border-gray-100 pb-3">
                 <div className="flex items-center gap-2">
@@ -187,7 +187,7 @@ const Downloadpage = () => {
                     <MdStar /><MdStar /><MdStar /><MdStar /><MdStar />
                   </div>
                 </div>
-                <p className="text-sm text-gray-600 mt-1">"গত মাসে ৫০,০০০ টাকা জিতেছি। টাকা হাতে পেয়ে খুব খুশি। বাজিম্যান দারুণ একটি প্ল্যাটফর্ম।"</p>
+                <p className="text-sm text-gray-600 mt-1">"গত মাসে ৫০,০০০ টাকা জিতেছি। টাকা হাতে পেয়ে খুব খুশি। BDBABU দারুণ একটি প্ল্যাটফর্ম।"</p>
               </div>
               <div className="border-b border-gray-100 pb-3">
                 <div className="flex items-center gap-2">
